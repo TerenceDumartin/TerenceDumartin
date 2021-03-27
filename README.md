@@ -17,7 +17,6 @@ I discover a passion about **Machine Learning & Deep Learning** and I can't stop
 
 - Data Engineering (deploy code and train model on Google Cloud Platform, build an API with FastAPI, create a Docker image and deploy it on Google Run or Heroku)
 <br>
-
 <h4 align="left">If you want to learn more about me 👇:</h4>
 
 - 🗞 You can discover my [linkedin profile](https://www.linkedin.com/in/terencedumartin/)
