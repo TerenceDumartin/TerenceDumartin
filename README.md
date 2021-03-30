@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Terence Dumartin</h1>
 <h3 align="left">A French Data Analyst & Data Scientist!</h3>
 
-After 9 intensive weeks learning Data Science with Python at [@LeWagon](https://www.lewagon.com/data-science-course/full-time), <br>
+After learning Data Science with Python at [@LeWagon](https://www.lewagon.com/data-science-course/full-time), <br>
 I discover a passion about **Machine Learning & Deep Learning** and I can't stop myself from learning about those topics ever since!
 <br>
 <br>
